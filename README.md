@@ -1,13 +1,22 @@
 <h2 id="the_challenge"  align="center">⚡ CRUD &ensp; Nextjs + Mongodb  </h2>
+<br/>
 
 <div align="center">
-   <b><p> CRUD (Create, Read, Update and Delete), using tools: </p></b>
-   
-<img alt="Nextjs"  src="./.github/nextjs.svg" width="30px"   hspace="4"/>
-<img alt="Mongodb"  src="./.github/mongodb.png" width="30px" hspace="4"/>
-<img alt="chakra-ui"  src="./.github/chakra-ui.png" width="30px" hspace="4"/>
-   
-   
+   <b><p> CRUD (Create, Read, Update and Delete), using tools: </p></b>   
+</div>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+
+<img alt="Nextjs"  src="./.github/nextjs.svg" width="45px"   hspace="4"/>
+<img alt="Mongodb"  src="./.github/mongodb.png" width="45px" hspace="4"/>
+<img alt="chakra-ui"  src="./.github/chakra-ui.png" width="45px" hspace="4"/>
+
 </div>
 
 
