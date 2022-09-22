@@ -2,7 +2,9 @@
 <br/>
 
 <div align="center">
-   <b><p> CRUD (Create, Read, Update and Delete), using tools: </p></b>   
+   <b><p> 
+    CRUD (Create, Read, Update, Delete)  powered by nextJS on the server side frontend and MongoDB for logging to the database.
+   </p></b>   
 </div>
 
 
