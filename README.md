@@ -3,7 +3,7 @@
 <div align="center">
    <b><p> CRUD (Create, Read, Update and Delete), using tools: </p></b>
    
-<img alt="Nextjs"  src="./.github/nextjs.png" width="30px"   hspace="4"/>
+<img alt="Nextjs"  src="./.github/nextjs.svg" width="30px"   hspace="4"/>
 <img alt="Mongodb"  src="./.github/mongodb.png" width="30px" hspace="4"/>
 <img alt="chakra-ui"  src="./.github/chakra-ui.png" width="30px" hspace="4"/>
    
